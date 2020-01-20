@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\Assignments\bin\Debug\Assignments.exe.config
+D:\Durga\C#\HandsOn\Assignments\bin\Debug\Assignments.exe
+D:\Durga\C#\HandsOn\Assignments\bin\Debug\Assignments.pdb
+D:\Durga\C#\HandsOn\Assignments\obj\Debug\Assignments.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\Assignments\obj\Debug\Assignments.exe
+D:\Durga\C#\HandsOn\Assignments\obj\Debug\Assignments.pdb

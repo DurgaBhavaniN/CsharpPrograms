@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\HandsOnConvertion\obj\Debug\HandsOnConvertion.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\HandsOnConvertion\bin\Debug\HandsOnConvertion.exe.config
+D:\Durga\C#\HandsOn\HandsOnConvertion\bin\Debug\HandsOnConvertion.exe
+D:\Durga\C#\HandsOn\HandsOnConvertion\bin\Debug\HandsOnConvertion.pdb
+D:\Durga\C#\HandsOn\HandsOnConvertion\obj\Debug\HandsOnConvertion.exe
+D:\Durga\C#\HandsOn\HandsOnConvertion\obj\Debug\HandsOnConvertion.pdb

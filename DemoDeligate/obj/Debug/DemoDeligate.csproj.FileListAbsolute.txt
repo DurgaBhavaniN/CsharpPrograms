@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\DemoDeligate\bin\Debug\DemoDeligate.exe.config
+D:\Durga\C#\HandsOn\DemoDeligate\bin\Debug\DemoDeligate.exe
+D:\Durga\C#\HandsOn\DemoDeligate\bin\Debug\DemoDeligate.pdb
+D:\Durga\C#\HandsOn\DemoDeligate\obj\Debug\DemoDeligate.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\DemoDeligate\obj\Debug\DemoDeligate.exe
+D:\Durga\C#\HandsOn\DemoDeligate\obj\Debug\DemoDeligate.pdb

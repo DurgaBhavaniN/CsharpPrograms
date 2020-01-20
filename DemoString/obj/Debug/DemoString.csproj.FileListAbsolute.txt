@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\DemoString\bin\Debug\DemoString.exe.config
+D:\Durga\C#\HandsOn\DemoString\bin\Debug\DemoString.exe
+D:\Durga\C#\HandsOn\DemoString\bin\Debug\DemoString.pdb
+D:\Durga\C#\HandsOn\DemoString\obj\Debug\DemoString.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\DemoString\obj\Debug\DemoString.exe
+D:\Durga\C#\HandsOn\DemoString\obj\Debug\DemoString.pdb

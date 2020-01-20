@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\DemoInterface\obj\Debug\DemoInterface.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\DemoInterface\bin\Debug\DemoInterface.exe.config
+D:\Durga\C#\HandsOn\DemoInterface\bin\Debug\DemoInterface.exe
+D:\Durga\C#\HandsOn\DemoInterface\bin\Debug\DemoInterface.pdb
+D:\Durga\C#\HandsOn\DemoInterface\obj\Debug\DemoInterface.exe
+D:\Durga\C#\HandsOn\DemoInterface\obj\Debug\DemoInterface.pdb

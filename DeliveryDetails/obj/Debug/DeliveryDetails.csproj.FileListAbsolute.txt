@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\DeliveryDetails\bin\Debug\DeliveryDetails.exe.config
+D:\Durga\C#\HandsOn\DeliveryDetails\bin\Debug\DeliveryDetails.exe
+D:\Durga\C#\HandsOn\DeliveryDetails\bin\Debug\DeliveryDetails.pdb
+D:\Durga\C#\HandsOn\DeliveryDetails\obj\Debug\DeliveryDetails.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\DeliveryDetails\obj\Debug\DeliveryDetails.exe
+D:\Durga\C#\HandsOn\DeliveryDetails\obj\Debug\DeliveryDetails.pdb

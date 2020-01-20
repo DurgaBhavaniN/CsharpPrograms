@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\StudentInterface\bin\Debug\StudentInterface.exe.config
+D:\Durga\C#\HandsOn\StudentInterface\bin\Debug\StudentInterface.exe
+D:\Durga\C#\HandsOn\StudentInterface\bin\Debug\StudentInterface.pdb
+D:\Durga\C#\HandsOn\StudentInterface\obj\Debug\StudentInterface.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\StudentInterface\obj\Debug\StudentInterface.exe
+D:\Durga\C#\HandsOn\StudentInterface\obj\Debug\StudentInterface.pdb

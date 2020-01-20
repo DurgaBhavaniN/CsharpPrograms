@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\CRUDOperations\obj\Debug\CRUDOperations.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\CRUDOperations\bin\Debug\CRUDOperations.exe.config
+D:\Durga\C#\HandsOn\CRUDOperations\bin\Debug\CRUDOperations.exe
+D:\Durga\C#\HandsOn\CRUDOperations\bin\Debug\CRUDOperations.pdb
+D:\Durga\C#\HandsOn\CRUDOperations\obj\Debug\CRUDOperations.exe
+D:\Durga\C#\HandsOn\CRUDOperations\obj\Debug\CRUDOperations.pdb

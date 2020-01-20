@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\StudentOverride\bin\Debug\StudentOverride.exe.config
+D:\Durga\C#\HandsOn\StudentOverride\bin\Debug\StudentOverride.exe
+D:\Durga\C#\HandsOn\StudentOverride\bin\Debug\StudentOverride.pdb
+D:\Durga\C#\HandsOn\StudentOverride\obj\Debug\StudentOverride.exe
+D:\Durga\C#\HandsOn\StudentOverride\obj\Debug\StudentOverride.pdb
+D:\Durga\C#\HandsOn\StudentOverride\obj\Debug\StudentOverride.csprojAssemblyReference.cache

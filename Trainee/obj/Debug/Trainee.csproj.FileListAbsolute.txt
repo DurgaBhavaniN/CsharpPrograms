@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\Trainee\obj\Debug\Trainee.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\Trainee\bin\Debug\Trainee.exe.config
+D:\Durga\C#\HandsOn\Trainee\bin\Debug\Trainee.exe
+D:\Durga\C#\HandsOn\Trainee\bin\Debug\Trainee.pdb
+D:\Durga\C#\HandsOn\Trainee\obj\Debug\Trainee.exe
+D:\Durga\C#\HandsOn\Trainee\obj\Debug\Trainee.pdb

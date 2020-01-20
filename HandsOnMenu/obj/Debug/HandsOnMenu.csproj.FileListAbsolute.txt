@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\HandsOnMenu\obj\Debug\HandsOnMenu.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\HandsOnMenu\bin\Debug\HandsOnMenu.exe.config
+D:\Durga\C#\HandsOn\HandsOnMenu\bin\Debug\HandsOnMenu.exe
+D:\Durga\C#\HandsOn\HandsOnMenu\bin\Debug\HandsOnMenu.pdb
+D:\Durga\C#\HandsOn\HandsOnMenu\obj\Debug\HandsOnMenu.exe
+D:\Durga\C#\HandsOn\HandsOnMenu\obj\Debug\HandsOnMenu.pdb

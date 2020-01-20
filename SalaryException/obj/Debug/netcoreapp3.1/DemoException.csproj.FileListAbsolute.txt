@@ -1,0 +1,11 @@
+D:\Durga\C#\HandsOn\SalaryException\obj\Debug\netcoreapp3.1\DemoException.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\SalaryException\obj\Debug\netcoreapp3.1\DemoException.AssemblyInfoInputs.cache
+D:\Durga\C#\HandsOn\SalaryException\obj\Debug\netcoreapp3.1\DemoException.AssemblyInfo.cs
+D:\Durga\C#\HandsOn\SalaryException\bin\Debug\netcoreapp3.1\DemoException.exe
+D:\Durga\C#\HandsOn\SalaryException\bin\Debug\netcoreapp3.1\DemoException.deps.json
+D:\Durga\C#\HandsOn\SalaryException\bin\Debug\netcoreapp3.1\DemoException.runtimeconfig.json
+D:\Durga\C#\HandsOn\SalaryException\bin\Debug\netcoreapp3.1\DemoException.runtimeconfig.dev.json
+D:\Durga\C#\HandsOn\SalaryException\bin\Debug\netcoreapp3.1\DemoException.dll
+D:\Durga\C#\HandsOn\SalaryException\bin\Debug\netcoreapp3.1\DemoException.pdb
+D:\Durga\C#\HandsOn\SalaryException\obj\Debug\netcoreapp3.1\DemoException.dll
+D:\Durga\C#\HandsOn\SalaryException\obj\Debug\netcoreapp3.1\DemoException.pdb

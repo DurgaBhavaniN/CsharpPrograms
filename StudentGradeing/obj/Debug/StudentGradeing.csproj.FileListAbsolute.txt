@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\StudentGradeing\bin\Debug\StudentGradeing.exe.config
+D:\Durga\C#\HandsOn\StudentGradeing\bin\Debug\StudentGradeing.exe
+D:\Durga\C#\HandsOn\StudentGradeing\bin\Debug\StudentGradeing.pdb
+D:\Durga\C#\HandsOn\StudentGradeing\obj\Debug\StudentGradeing.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\StudentGradeing\obj\Debug\StudentGradeing.exe
+D:\Durga\C#\HandsOn\StudentGradeing\obj\Debug\StudentGradeing.pdb

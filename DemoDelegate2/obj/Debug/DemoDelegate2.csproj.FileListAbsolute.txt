@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\DemoDelegate2\bin\Debug\DemoDelegate2.exe.config
+D:\Durga\C#\HandsOn\DemoDelegate2\bin\Debug\DemoDelegate2.exe
+D:\Durga\C#\HandsOn\DemoDelegate2\bin\Debug\DemoDelegate2.pdb
+D:\Durga\C#\HandsOn\DemoDelegate2\obj\Debug\DemoDelegate2.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\DemoDelegate2\obj\Debug\DemoDelegate2.exe
+D:\Durga\C#\HandsOn\DemoDelegate2\obj\Debug\DemoDelegate2.pdb

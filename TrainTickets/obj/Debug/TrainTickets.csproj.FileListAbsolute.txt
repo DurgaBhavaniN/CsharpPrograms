@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\TrainTickets\bin\Debug\TrainTickets.exe.config
+D:\Durga\C#\HandsOn\TrainTickets\bin\Debug\TrainTickets.exe
+D:\Durga\C#\HandsOn\TrainTickets\bin\Debug\TrainTickets.pdb
+D:\Durga\C#\HandsOn\TrainTickets\obj\Debug\TrainTickets.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\TrainTickets\obj\Debug\TrainTickets.exe
+D:\Durga\C#\HandsOn\TrainTickets\obj\Debug\TrainTickets.pdb

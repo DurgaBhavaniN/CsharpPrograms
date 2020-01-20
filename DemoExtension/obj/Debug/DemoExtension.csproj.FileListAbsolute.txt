@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\DemoExtension\bin\Debug\DemoExtension.exe.config
+D:\Durga\C#\HandsOn\DemoExtension\bin\Debug\DemoExtension.exe
+D:\Durga\C#\HandsOn\DemoExtension\bin\Debug\DemoExtension.pdb
+D:\Durga\C#\HandsOn\DemoExtension\obj\Debug\DemoExtension.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\DemoExtension\obj\Debug\DemoExtension.exe
+D:\Durga\C#\HandsOn\DemoExtension\obj\Debug\DemoExtension.pdb

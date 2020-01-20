@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\ByteOperations\bin\Debug\ByteOperations.exe.config
+D:\Durga\C#\HandsOn\ByteOperations\bin\Debug\ByteOperations.exe
+D:\Durga\C#\HandsOn\ByteOperations\bin\Debug\ByteOperations.pdb
+D:\Durga\C#\HandsOn\ByteOperations\obj\Debug\ByteOperations.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\ByteOperations\obj\Debug\ByteOperations.exe
+D:\Durga\C#\HandsOn\ByteOperations\obj\Debug\ByteOperations.pdb

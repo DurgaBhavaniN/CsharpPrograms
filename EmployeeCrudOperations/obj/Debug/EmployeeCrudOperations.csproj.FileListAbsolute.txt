@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\EmployeeCrudOperations\bin\Debug\EmployeeCrudOperations.exe.config
+D:\Durga\C#\HandsOn\EmployeeCrudOperations\bin\Debug\EmployeeCrudOperations.exe
+D:\Durga\C#\HandsOn\EmployeeCrudOperations\bin\Debug\EmployeeCrudOperations.pdb
+D:\Durga\C#\HandsOn\EmployeeCrudOperations\obj\Debug\EmployeeCrudOperations.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\EmployeeCrudOperations\obj\Debug\EmployeeCrudOperations.exe
+D:\Durga\C#\HandsOn\EmployeeCrudOperations\obj\Debug\EmployeeCrudOperations.pdb

@@ -1,0 +1,6 @@
+D:\Durga\C#\HandsOn\ObjectCollection\bin\Debug\ObjectCollection.exe.config
+D:\Durga\C#\HandsOn\ObjectCollection\bin\Debug\ObjectCollection.exe
+D:\Durga\C#\HandsOn\ObjectCollection\bin\Debug\ObjectCollection.pdb
+D:\Durga\C#\HandsOn\ObjectCollection\obj\Debug\ObjectCollection.csprojAssemblyReference.cache
+D:\Durga\C#\HandsOn\ObjectCollection\obj\Debug\ObjectCollection.exe
+D:\Durga\C#\HandsOn\ObjectCollection\obj\Debug\ObjectCollection.pdb
